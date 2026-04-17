@@ -23,7 +23,7 @@ Set Lead Status to **New** unless you've already had a real conversation, in whi
 
 Two things can happen when you save.
 
-If Salesforce finds a match when you try to save, it blocks the save and shows you the existing record it thinks is a duplicate. Look at the match. If it's the same person, open the existing record and update it with whatever new information you have. Don't create a workaround email like "name+new@domain.com" to get around the block. If it's a different person who happens to share a name or other details, check with your manager or ask in #sales-ops before forcing anything through.
+If Salesforce finds a match when you try to save, it blocks the save and shows you the existing record it thinks is a duplicate. Look at the match. If it's the same person, open the existing record and update it with whatever new information you have. Don't create a workaround email like 'name+new@domain.com' to get around the block. If it's a different person who happens to share a name or other details, check with your manager or ask in #sales-ops before forcing anything through.
 
 ## Moving a Lead to Qualified
 
